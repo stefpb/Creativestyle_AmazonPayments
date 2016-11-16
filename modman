@@ -1,4 +1,4 @@
-app/code/community/AmazonPayments									app/code/community/AmazonPayments
+app/code/community/Creativestyle									app/code/community/Creativestyle
 
 app/design/adminhtml/default/default/layout/amazonpayments.xml		app/design/adminhtml/default/default/layout/amazonpayments.xml
 app/design/adminhtml/default/default/template/creativestyle			app/design/adminhtml/default/default/template/creativestyle
